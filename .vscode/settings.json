@@ -1,0 +1,7 @@
+{
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "ElectricityBillingSystem/Libraries/mssql-jdbc-11.2.0.jre18.jar",
+        "ElectricityBillingSystem/Libraries/rs2xml.jar"
+    ]
+}
